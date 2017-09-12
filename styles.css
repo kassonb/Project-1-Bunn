@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('http://cdn.history.com/sites/2/2013/12/New-Orleans-Bourbon-St-H.jpeg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -70,11 +70,14 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 5px solid magenta;
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(5deg)
+
+
+
 }
 .tag {
   background-color: #efefef;
@@ -150,13 +153,7 @@ a.social {
   background-size: 30px 30px;
   opacity: .4;
   transition: all .5s;
-}
-a.twitter {
-  background-image: url(images/twitter.svg);
-}
-a.linkedin {
-  background-image: url(images/linkedin.svg);
-}
+
 a.github {
   background-image: url(images/github.svg);
 }
@@ -202,6 +199,10 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
+      
+    }
+    footer{
+      background: url ('http://www.portno.com/CMS/Resources/_BREAKINGNEWS/about_admin_smaller.jpg') no-repeat center
 
 }
 
