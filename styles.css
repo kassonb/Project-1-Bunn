@@ -147,12 +147,12 @@ footer ul li {
 a.social {
   display: inline-block;
   text-indent: -9999px;
-  margin-left: 5px;
+  margin-left: 4px;
   width: 30px;
   height: 30px;
   background-size: 30px 30px;
   opacity: .4;
-  transition: all .5s;
+  transition: all .5s;}
 
 a.github {
   background-image: url(images/github.svg);
@@ -202,7 +202,7 @@ a.social:hover {
       
     }
     footer{
-      background: url ('http://www.portno.com/CMS/Resources/_BREAKINGNEWS/about_admin_smaller.jpg') no-repeat center
+      background: url ('http://www.portno.com/CMS/Resources/_BREAKINGNEWS/about_admin_smaller.jpg') no-repeat center;
 
 }
 
