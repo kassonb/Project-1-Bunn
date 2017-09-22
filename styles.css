@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('http://cdn.history.com/sites/2/2013/12/New-Orleans-Bourbon-St-H.jpeg') no-repeat top center ;
+  background: url("New-Orleans-Bourbon-St-H.jpeg") no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -202,7 +202,6 @@ a.social:hover {
       
     }
     footer{
-      background: url ('http://www.portno.com/CMS/Resources/_BREAKINGNEWS/about_admin_smaller.jpg') no-repeat center;
 
 }
 
